@@ -1,6 +1,6 @@
 # Kacper-Roth.github.io
 # Witamy na stronie studenta Cyberbezpieczeństwa!
-Cześć! Nazywam się [Twoje Imię] i jestem studentem kierunku Cyberbezpieczeństwo na [nazwa uczelni].
+Cześć! Nazywam się Kacper i jestem studentem kierunku Cyberbezpieczeństwo na AGH.
 
 Od zawsze pasjonowałem się światem IT, a szczególnie zagadnieniami związanymi z ochroną danych i bezpieczeństwem w sieci.
 
